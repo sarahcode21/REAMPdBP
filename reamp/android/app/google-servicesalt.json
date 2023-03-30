@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20983256912",
+    "project_id": "reamp-app",
+    "storage_bucket": "reamp-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20983256912:android:240a235e781fb125fbfe55",
+        "android_client_info": {
+          "package_name": "io.ccn.reamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20983256912-i6plpq8a839ojvpdgudmjaspljm8lg38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNuVWGgLzUbA_-oUgBL9efdcx2JU96yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20983256912-i6plpq8a839ojvpdgudmjaspljm8lg38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
