@@ -1,0 +1,1 @@
+../../../../../Protobuf-C++/src/google/protobuf/string_member_robber.h
